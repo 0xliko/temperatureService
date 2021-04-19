@@ -1,0 +1,1 @@
+sc create TempService binPath="%CD%\\bin\\Debug\\TempCpuService.exe"
